@@ -1,0 +1,3 @@
+JDBCurl=jdbc:mysql://localhost:3306/zhihu
+JDBCuser=root
+JDBCpassWord=123456
